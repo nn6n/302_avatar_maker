@@ -26,7 +26,7 @@
     "@types/lodash": "^4.17.10",
     "accept-language": "^3.0.20",
     "ahooks": "^3.8.1",
-    "ai": "^3.4.27",
+    "ai": "^5.0.52",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "color-selector-react": "0.3.0-beta.4",
